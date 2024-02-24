@@ -1,1 +1,2 @@
-print('Git is Awesome')
+name = input('Name: ')
+print('Hi ',name)
